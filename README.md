@@ -129,14 +129,29 @@ ORDER BY total_revenue DESC;
    - Bar chart displaying the top customers based on total spend.
 
 5. **Most Profitable Days of the Week**
-   - Bar chart analyzing revenue by weekday.
+   - Table analyzing revenue by weekday.
 
 6. **Revenue by Country**
-   - Map view or bar chart displaying revenue by country.
+   - Map view chart displaying revenue by country.
 
 7. **TOP 50 Customers |RFM|**
    - Scatter Plot for the Top 50 Customers with ranks based on Recency,Frequency and Monetery Value
 
 ---
 
+   ### Dashboard ###
+   - You can find the Interactive Dashboard in my Tableau Public Profile
+   ---> https://public.tableau.com/app/profile/georgi.kanchev/viz/SalesDashboard2_0_17364247807340/Dashboard1
+   ![Tableau](Tableau/Tab.png)
 
+
+
+🛠 Technologies Used
+   - Postgre SQL
+   - Tableau Dekstop
+
+📜 License
+This project is licensed under the MIT License.
+
+GitHub:KAMENOVGEORGI
+Email:g.kamenovkanchev@gmail.com
