@@ -1,5 +1,5 @@
 
-                                                 "Day of a Data Analyst"
+                                     "Day of a Data Analyst"
 
 ### SQL|Tableau Project 
 
